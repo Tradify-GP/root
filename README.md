@@ -185,11 +185,11 @@ To run the Tradify platform locally, you must set up the three core components: 
 
 | Student ID | Student Name | Role Emphasis |
 | :--- | :--- | :--- |
-| 20210032 | Ahmed Mohamed Shaaban | Backend API, Firestore, AI Integration |
-| 20210876 | Ali Mohammed Abduljabbar | |
-| 20210605 | Badr Mohamed Ragab | |
-| 20211079 | Mohamed Amir Mohamed | |
-| 20210273 | Omar Mohamed Fayek | |
+| 20210032 | Ahmed Mohamed Shaaban | Admin Dashboard, Backend API, Firestore, AI Integration |
+| 20210876 | Ali Mohammed Abduljabbar | Admin Dashboard |
+| 20210605 | Badr Mohamed Ragab | Flutter Mobile App, Firebase Auth, Supabase Storage |
+| 20211079 | Mohamed Amir Mohamed | Flutter Mobile App, Firebase Auth, Supabase Storage |
+| 20210273 | Omar Mohamed Fayek | Backend API |
 
 **Supervised by:**
 
