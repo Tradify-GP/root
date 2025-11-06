@@ -1,0 +1,12 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Tradify-GP/backend
+[submodule "admin-website"]
+	path = admin-website
+	url = https://github.com/Tradify-GP/admin-website
+[submodule "model-backend"]
+	path = model-backend
+	url = https://github.com/Tradify-GP/model-backend
+[submodule "mobile-app"]
+	path = mobile-app
+	url = https://github.com/Tradify-GP/mobile-app
