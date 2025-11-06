@@ -4,7 +4,7 @@
 
 **FIND. SWAP. OWN.**
 
-WATCH THE [LIVE DEMO](https://drive.google.com/file/d/1WYpdlzQklEGmHKnVmEgBAV-eIM9pKB4c/view?usp=drive_link).
+WATCH THE OVERVIEW [VIDEO](https://drive.google.com/file/d/1WYpdlzQklEGmHKnVmEgBAV-eIM9pKB4c/view?usp=drive_link).
 
 ## Table of Contents
 
